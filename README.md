@@ -16,7 +16,9 @@ Downtown Charlottesville, VA: <br/>
 <img src="https://imgur.com/0WfsEWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+ 
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b>
 <!--
  ```diff
 - text in red
